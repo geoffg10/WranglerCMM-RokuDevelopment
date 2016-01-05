@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+	<item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+		<title>Bur</title>
+		<contentId>10001</contentId>
+		<contentType>funny</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://youngstreetdesign.com/GeoffsChannel/BEEER.mov</streamUrl>
+		</media>
+		<synopsis>beer</synopsis>
+		<genres>Clip</genres>
+		<runtime>28</runtime>
+	</item>
+    
+    <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+        <title>Casting Rock</title>
+        <contentId>10001</contentId>
+        <contentType>funny</contentType>
+        <contentQuality>SD</contentQuality>
+        <streamFormat>mov</streamFormat>
+        <media>
+            <streamQuality>SD</streamQuality>
+            <streamBitrate>1500</streamBitrate>
+            <streamUrl>http://youngstreetdesign.com/GeoffsChannel/Catsingingrock.mov</streamUrl>
+        </media>
+        <synopsis>funny</synopsis>
+        <genres>Clip</genres>
+        <runtime>28</runtime>
+    </item>
+        
+        <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+            <title>Dog going up stairs doh</title>
+                <contentId>10001</contentId>
+                <contentType>funny</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mov</streamFormat>
+                <media>
+                    <streamQuality>SD</streamQuality>
+                    <streamBitrate>1500</streamBitrate>
+                    <streamUrl>http://youngstreetdesign.com/GeoffsChannel/Dog_walks_up_stairs_4_legs_at_the_same_time.mov</streamUrl>
+                </media>
+                <synopsis>funny</synopsis>
+                <genres>Clip</genres>
+                <runtime>28</runtime>
+            </item>
+</feed>

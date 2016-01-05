@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+	<item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+		<title>Low Rider</title>
+		<contentId>10001</contentId>
+		<contentType>funny</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://youngstreetdesign.com/GeoffsChannel/Lowrider_D.mov</streamUrl>
+		</media>
+		<synopsis>woof</synopsis>
+		<genres>Clip</genres>
+		<runtime>28</runtime>
+	</item>
+    
+    <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+        <title>Faced</title>
+        <contentId>10001</contentId>
+        <contentType>funny</contentType>
+        <contentQuality>SD</contentQuality>
+        <streamFormat>mov</streamFormat>
+        <media>
+            <streamQuality>SD</streamQuality>
+            <streamBitrate>1500</streamBitrate>
+            <streamUrl>http://youngstreetdesign.com/GeoffsChannel/I_accidentally_all_over_her_face.mov</streamUrl>
+        </media>
+        <synopsis>woof</synopsis>
+        <genres>Clip</genres>
+        <runtime>28</runtime>
+    </item>
+        <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+            <title>Evil Pizza</title>
+                <contentId>10001</contentId>
+                <contentType>funny</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mov</streamFormat>
+                <media>
+                    <streamQuality>SD</streamQuality>
+                    <streamBitrate>1500</streamBitrate>
+                    <streamUrl>http://youngstreetdesign.com/GeoffsChannel/The_Evil_Pizzas_Were_no_Match_for_a_Simple_Stop_Light.mov</streamUrl>
+                </media>
+                <synopsis>woof</synopsis>
+                <genres>Clip</genres>
+                <runtime>28</runtime>
+            </item>
+</feed>

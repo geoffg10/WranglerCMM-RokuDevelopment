@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>2</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>2</endIndex>
+	<item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+		<title>super pup</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://youngstreetdesign.com/GeoffsChannel/adorablepuppy.mov</streamUrl>
+		</media>
+		<synopsis>woof</synopsis>
+		<genres>Clip</genres>
+		<runtime>28</runtime>
+	</item>
+    
+    <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+        <title>gaaah video 2</title>
+        <contentId>10002</contentId>
+        <contentType>Talk</contentType>
+        <contentQuality>SD</contentQuality>
+        <streamFormat>mov</streamFormat>
+        <media>
+            <streamQuality>SD</streamQuality>
+            <streamBitrate>1500</streamBitrate>
+            <streamUrl>http://youngstreetdesign.com/GeoffsChannel/superman.mp4</streamUrl>
+        </media>
+        <synopsis>testing a second video inside of the cateogry</synopsis>
+        <genres>Clip</genres>
+        <runtime>28</runtime>
+    </item>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png"/>
+	  
+	<category title="Category Uno" description="Geoffs-Cat1" sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+		<categoryLeaf title="Category Uno - catleaf1" description="sup" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themind.xml" />
+        
+        <categoryLeaf title="Category Uno - catleaf2" description="sup" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themind2.xml" />
+	</category>
+
+
+    <category title="Category Dos" description="Geoffs-Cat2" sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png" >
+        <categoryLeaf title="Category Dos - catleaf1 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis.xml" />
+        <categoryLeaf title="Category Dos - catleaf2 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis2.xml" />
+        <categoryLeaf title="Category Dos - catleaf3 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis3.xml" />
+    </category>
+    
+        <category title="Category Tres" description="Geoffs-Cat3" sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png" >
+        <categoryLeaf title="Category Tres - catleaf1 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis4.xml" />
+        <categoryLeaf title="Category Tres - catleaf2 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis5.xml" />
+        <categoryLeaf title="Category Tres - catleaf3 " description="catdos" feed="http://youngstreetdesign.com/GeoffsChannel/xml/themindis6.xml" />
+    </category>
+
+ </categories>

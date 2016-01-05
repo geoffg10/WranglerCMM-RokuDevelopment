@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+	<item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+		<title>A Day Well Spent</title>
+		<contentId>10001</contentId>
+		<contentType>funny</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://youngstreetdesign.com/GeoffsChannel/ADayWellSpent.mov</streamUrl>
+		</media>
+		<synopsis>woof</synopsis>
+		<genres>Clip</genres>
+		<runtime>28</runtime>
+	</item>
+    
+    <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+        <title>Deer Steals Mans Wife</title>
+        <contentId>10002</contentId>
+        <contentType>funny</contentType>
+        <contentQuality>SD</contentQuality>
+        <streamFormat>mov</streamFormat>
+        <media>
+            <streamQuality>SD</streamQuality>
+            <streamBitrate>1500</streamBitrate>
+            <streamUrl>http://youngstreetdesign.com/GeoffsChannel/A_Deer_Steals_Mans_Wife.mov</streamUrl>
+        </media>
+        <synopsis>testing a second video inside of the cateogry</synopsis>
+        <genres>Clip</genres>
+        <runtime>28</runtime>
+    </item>
+        
+        <item sd_img="http://youngstreetdesign.com/GeoffsChannel/images/sd.png" hd_img="http://youngstreetdesign.com/GeoffsChannel/images/hd.png">
+            <title>Brittish Broadcasting Blooper</title>
+                <contentId>10002</contentId>
+                <contentType>Blooper - funny</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mov</streamFormat>
+                <media>
+                    <streamQuality>SD</streamQuality>
+                    <streamBitrate>1500</streamBitrate>
+                    <streamUrl>http://youngstreetdesign.com/GeoffsChannel/BBCblooper.mov</streamUrl>
+                </media>
+                <synopsis>testing a third video inside of the cateogry</synopsis>
+                <genres>Clip</genres>
+                <runtime>28</runtime>
+            </item>
+</feed>
