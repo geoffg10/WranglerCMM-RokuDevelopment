@@ -1,6 +1,5 @@
-# WranglerCMM-RokuDevelopment
+# WranglerCMM-RokuDevelopment - RokuChannelCustomStyles
 
-Current Master Branch is a working version of app with multi categories and subcats with videos
+Branched off of Master
 
-Branch off this and make Branch name specfic to what you are doing
-
+This branch is for CHannel Customization, adding styles to the channel.
